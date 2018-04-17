@@ -230,6 +230,7 @@ test('fills in `bin` if original was an array', t => {
       bin: 'foo'
     },
     _integrity: 'sha1-deadbeefc0ffeebad1dea',
+    _shasum: '75e69d6de79f7347df79e6da77575e',
     _resolved: OPTS.registry + tarballPath,
     _hasShrinkwrap: false
   }
